@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Stellar
+Description=Stellar Theme
+Author=Steve Gerbino
+Copyright=(c) 2016, Steve Gerbino
+License=FreeBSD
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sgerbino/stellar
+Screenshot=screenshot.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=steve@gerbino.co
+Theme-Id=stellar
+Theme-API=2.0
